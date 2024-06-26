@@ -1,4 +1,4 @@
-# PLPBasicGitAssignment
+
 TASK 1:GitHub Repository Creation:
 
 -Log in to your GitHub account.
